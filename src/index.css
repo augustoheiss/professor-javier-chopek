@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@theme {
+  /* Warm earth tones inspired by Latin America */
+  --color-terracotta-50: #fdf4f0;
+  --color-terracotta-100: #fbe5d9;
+  --color-terracotta-200: #f6c9b1;
+  --color-terracotta-300: #efa47f;
+  --color-terracotta-400: #e67a4c;
+  --color-terracotta-500: #d9582a;
+  --color-terracotta-600: #c04420;
+  --color-terracotta-700: #9f341c;
+  --color-terracotta-800: #832e1d;
+  --color-terracotta-900: #6c281b;
+
+  --color-sand-50: #fdfaf5;
+  --color-sand-100: #f7f0e0;
+  --color-sand-200: #eedfc0;
+  --color-sand-300: #e2c992;
+  --color-sand-400: #d4ae65;
+  --color-sand-500: #c69a44;
+  --color-sand-600: #a87c35;
+  --color-sand-700: #88602d;
+  --color-sand-800: #6f4e28;
+  --color-sand-900: #5c4124;
+
+  --color-sky-academy-50: #eff8ff;
+  --color-sky-academy-100: #dbeffe;
+  --color-sky-academy-200: #bfe3fe;
+  --color-sky-academy-300: #93d1fd;
+  --color-sky-academy-400: #60b8fb;
+  --color-sky-academy-500: #3a9bf5;
+  --color-sky-academy-600: #217dea;
+  --color-sky-academy-700: #1a65d6;
+  --color-sky-academy-800: #1c51ad;
+  --color-sky-academy-900: #1c4689;
+
+  --color-cream: #faf7f2;
+  --color-charcoal: #2c2825;
+
+  --font-family-display: "Georgia", "Times New Roman", serif;
+  --font-family-body: "Inter", system-ui, -apple-system, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-family-body);
+  background-color: var(--color-cream);
+  color: var(--color-charcoal);
+}
