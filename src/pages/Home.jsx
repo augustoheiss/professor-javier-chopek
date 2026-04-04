@@ -471,6 +471,19 @@ function SeccionPuente() {
    SECCIÓN 5 — CTA FINAL (Captura de Leads)
 ═══════════════════════════════════════════════════ */
 function SeccionCTAFinal() {
+<<<<<<< HEAD
+=======
+  const [email, setEmail] = useState('')
+  const [enviado, setEnviado] = useState(false)
+
+  const handleSubmit = (e) => {
+    e.preventDefault()
+    if (email.trim()) {
+      // Aquí se integraría con un CRM o plataforma de email marketing
+      setEnviado(true)
+    }
+  }
+>>>>>>> 84ea84f358615e222bf4bc062bf956beea770906
 
   return (
     <section
@@ -519,6 +532,7 @@ function SeccionCTAFinal() {
           más rápido desde el "Portuñol" hasta el español que siempre soñaste hablar.
         </p>
 
+<<<<<<< HEAD
         {/* CTA principal — WhatsApp */}
         <a
           id="cta-final-whatsapp"
@@ -536,6 +550,85 @@ function SeccionCTAFinal() {
           Agendar Evaluación por WhatsApp ✨
         </a>
 
+=======
+        {/* Formulario de captura de leads */}
+        {!enviado ? (
+          <form
+            onSubmit={handleSubmit}
+            className="flex flex-col sm:flex-row gap-3 max-w-lg mx-auto mb-8"
+            aria-label="Formulario para evaluación de nivel gratuita"
+          >
+            <label htmlFor="captura-email" className="sr-only">
+              Tu correo electrónico
+            </label>
+            <input
+              id="captura-email"
+              type="email"
+              required
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              placeholder="tu@correo.com"
+              className="flex-1 px-5 py-3.5 rounded-full border text-base transition-all focus:outline-none focus:ring-2 focus:ring-[#d9582a] focus:border-transparent"
+              style={{
+                background: 'rgba(255,255,255,0.08)',
+                borderColor: 'rgba(255,255,255,0.18)',
+                color: '#faf7f2',
+              }}
+            />
+            <button
+              id="btn-evaluacion-gratuita"
+              type="submit"
+              className="px-6 py-3.5 rounded-full font-bold text-white whitespace-nowrap transition-all duration-200 hover:scale-105 focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-[#c69a44]/60"
+              style={{
+                background: 'linear-gradient(135deg, #c69a44 0%, #d4ae65 100%)',
+                boxShadow: '0 4px 20px rgba(198,154,68,0.4)',
+              }}
+            >
+              Realiza tu Evaluación de Nivel Gratuita ✨
+            </button>
+          </form>
+        ) : (
+          <div
+            className="max-w-lg mx-auto mb-8 p-5 rounded-2xl border text-[#faf7f2]"
+            style={{
+              background: 'rgba(255,255,255,0.08)',
+              borderColor: 'rgba(198,154,68,0.4)',
+            }}
+            role="alert"
+          >
+            <span className="text-2xl" aria-hidden="true">🎉</span>
+            <p className="font-semibold mt-2">¡Perfecto! El Profesor Javier se pondrá en contacto contigo muy pronto.</p>
+            <p className="text-sm text-[#faf7f2]/60 mt-1">
+              Revisa tu bandeja de entrada — tu camino al español auténtico comienza ahora.
+            </p>
+          </div>
+        )}
+
+        {/* Separador */}
+        <div className="flex items-center gap-4 max-w-xs mx-auto mb-8">
+          <div className="flex-1 h-px" style={{ background: 'rgba(255,255,255,0.15)' }} />
+          <span className="text-sm font-medium" style={{ color: 'rgba(250,247,242,0.4)' }}>o</span>
+          <div className="flex-1 h-px" style={{ background: 'rgba(255,255,255,0.15)' }} />
+        </div>
+
+        {/* CTA secundario — WhatsApp */}
+        <a
+          id="cta-final-whatsapp"
+          href={WA_LINK}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-3 px-8 py-4 rounded-full font-bold text-white text-lg transition-all duration-200 hover:scale-105 focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-[#25D366]/50"
+          style={{
+            background: 'linear-gradient(135deg, #1ebe57 0%, #25D366 100%)',
+            boxShadow: '0 4px 24px rgba(37,211,102,0.4)',
+          }}
+          aria-label="Contactar al Profesor Javier Chopek por WhatsApp"
+        >
+          <WhatsAppIcon className="w-6 h-6 text-white" />
+          Habla conmigo por WhatsApp
+        </a>
+
+>>>>>>> 84ea84f358615e222bf4bc062bf956beea770906
         {/* Microcopia de confianza */}
         <p className="mt-8 text-sm" style={{ color: 'rgba(250,247,242,0.35)' }}>
           Sin ventas agresivas. Sin compromisos. Solo una conversación sobre dónde estás y
