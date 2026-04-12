@@ -78,6 +78,13 @@ export default function Footer() {
 
         <div className="mt-12 pt-6 border-t border-[#faf7f2]/10 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-[#faf7f2]/40">
           <p>© {new Date().getFullYear()} Prof. Javier Chopek. Todos los derechos reservados.</p>
+          <Link
+            to="/termos"
+            id="footer-legal-link"
+            className="text-[#faf7f2]/40 hover:text-[#efa47f] transition-colors duration-150 underline underline-offset-2"
+          >
+            Termos de Uso e Privacidade
+          </Link>
           <p>Hecho con ♥ para estudiantes de español latino</p>
         </div>
       </div>

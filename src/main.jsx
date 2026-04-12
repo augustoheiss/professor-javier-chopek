@@ -6,6 +6,7 @@ import './index.css'
 import Home from './pages/Home'
 import ClassesLayout from './pages/ClassesLayout'
 import ClassDetail from './pages/ClassDetail'
+import LegalPage from './pages/LegalPage'
 import NotFound from './pages/NotFound'
 import { classesData } from './data/classesData'
 
@@ -18,6 +19,7 @@ createRoot(document.getElementById('root')).render(
           <Route index element={<Navigate to={`/clases/${classesData[0].slug}`} replace />} />
           <Route path=":slug" element={<ClassDetail />} />
         </Route>
+        <Route path="/termos" element={<LegalPage />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
     </BrowserRouter>
