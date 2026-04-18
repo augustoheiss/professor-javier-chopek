@@ -93,5 +93,157 @@ Don Andrés Bello lo sabía, "Ante-presente" lo llamó,
 Nuestra forma de hablar, él mismo la validó.
 No es un simple pasado, es historia viva, mi gente.
 América Latina... ¡siempre presente!`
+  },
+  {
+    id: 'kUWh9JogpGQ',
+    slug: 'codigo-oculto-espanol-podcast',
+    number: 6,
+    title: 'El Código Oculto del Español: La Arquitectura Cognitiva (Podcast)',
+    description: '¿Alguna vez has sentido que la gramática del español va en contra de toda lógica? En este profundo análisis exploramos la caída del latín, la "cadena de acción" y el misterio del "se" espurio. Dominar la gramática es reclamar la agilidad intelectual de nuestros ancestros.',
+  },
+  {
+    id: 'Wms3F3mVkWg',
+    slug: 'codigo-oculto-espanol-presentacion',
+    number: 7,
+    title: 'El Código Oculto del Español: La Arquitectura Cognitiva y la Física de los Pronombres',
+    description: 'Acompáñanos en un viaje fascinante de más de 2000 años de evolución lingüística. Entiende por qué América Latina funciona como una cápsula del tiempo, la división atlántica y el peligro de la descarga cognitiva.',
+  },
+  {
+    id: 'j5MYXC3ab2w',
+    slug: 'mapa-de-la-mente-cancion-cliticos',
+    number: 8,
+    title: 'El Mapa de la Mente (La Canción de los Clíticos)',
+    description: 'Una canción didáctica sobre la evolución de los pronombres átonos, el paso del latín al español y la regla de los objetos directos e indirectos en América Latina.',
+    lyrics: `[Verso 1]
+Desde el latín vulgar, la mente en tensión
+Sin memoria externa, pura cognición
+Los ancestros hablaban con mucho rigor
+El cerebro humano era el único motor
+El viejo pronombre ille empezó a viajar
+Perdió su primera sílaba para poder encajar
+Se formó nuestro código, preciso y fatal
+Un mapa cognitivo en el árbol mental.
+
+[Coro]
+Lo, la, los, las reciben la acción
+El impacto directo, la pura colisión (¡el paciente!)
+Le y les observan, son el receptor
+El daño o el premio, el espectador
+Y en América Latina guardamos la ley
+El lo es directo, aquí no hay otro rey.
+Y si el le choca con lo sin dudar...
+¡Se transforma en se lo, historia pura al hablar!
+
+[Verso 2]
+Imagina el cine, graba la escena de acción
+El sujeto es el director con la intención
+El objeto directo es el doble de riesgo al saltar
+Toma la fuerza de la acción sin mediar
+Pero cruza el Atlántico y mira el lugar
+La norma toledana la vamos a descartar
+Aquí no hay leísmo, ni tampoco vosotros
+Usamos ustedes, lo hacemos nosotros.
+
+[Puente]
+No es para que "suene bonito", no es por azar
+Illi illum fue gelo siglos atrás al hablar
+Y el roce del tiempo lo hizo cambiar
+Hasta el se lo moderno que vas a estudiar
+¡Deja el traductor, apaga el celular!
+La fricción en tu mente te enseña a pensar
+El se no es reflejo, es el dominio total
+La voz media que envuelve el golpe final.
+
+[Coro]
+Lo, la, los, las reciben la acción
+El impacto directo, la pura colisión (¡el paciente!)
+Le y les observan, son el receptor
+El daño o el premio, el espectador
+Y en América Latina guardamos la ley
+El lo es directo, aquí no hay otro rey.
+Y si el le choca con lo sin dudar...
+¡Se transforma en se lo, historia pura al hablar!
+
+[Outro]
+Lo veo.
+Le escribo.
+Se lo entrego hoy.
+Mi mente es la guía de a dónde voy.
+Sin inteligencia artificial, pura memoria ancestral...
+¡Nuestra sintaxis es un mapa mental!
+(Fade out rítmico)`
+  },
+  {
+    id: 'ijm3lR5WdK4',
+    slug: 'vos-sos-mi-lo',
+    number: 9,
+    title: 'Vos Sos Mi Lo',
+    description: 'Un tema musical que refuerza el uso del objeto directo en el español latinoamericano, rechazando el leísmo y celebrando la agilidad mental y la fricción cognitiva.',
+    lyrics: `[Verso 1]
+Hablamos en un latín que ya no existe,
+donde el caso nominativo se puso triste.
+Yo era el agente, vos el puro paciente,
+una cadena de acción poco eficiente.
+Empezamos con ruidos, sin diccionarios,
+el cerebro quemando, sin intermediarios.
+Pero tu ille se fue achicando de a poco,
+y el mapa de mi mente se volvió un poco loco.
+
+[Coro]
+Vos sos mi lo, te lo di todo entero,
+un objeto directo, puro y verdadero.
+No te des desvíos con un le de cortesía,
+que en mi norma Sevillana no hay hipocresía.
+Dámelo, decímelo, sin el bendito se,
+que esa fricción cognitiva me da mucha fe.
+Te quiero acá, sin apps ni algoritmos,
+volviendo al rigor de nuestros primeros ritmos.
+(Volviendo al rigor de nuestros primeros ritmos)
+
+[Verso 2]
+Pasamos de Toledo a la terminal de micros,
+donde los leísmos son meros entresijos.
+Te vi, te hablé, te busqué en el mapa,
+antes de que el celular la señal nos tape.
+No quiero offloading, ni descarga de datos,
+el cerebro se muere si somos tan pacatos.
+Prefiero el esfuerzo, la fricción de tu voz,
+antes que la atrofia nos separe a los dos.
+
+[Coro]
+Vos sos mi lo, te lo di todo entero,
+un objeto directo, puro y verdadero.
+No te des desvíos con un le de cortesía,
+que en mi norma Sevillana no hay hipocresía.
+Dámelo, decímelo, sin el bendito se,
+que esa fricción cognitiva me da mucha fe.
+Te quiero acá, sin apps ni algoritmos,
+volviendo al rigor de nuestros primeros ritmos.
+(Volviendo al rigor de nuestros primeros ritmos)
+
+[Ponte]
+Si me usás, que sea con rigor,
+(que sea con rigor)
+que el objeto directo sienta el calor.
+(Sienta el calor)
+No dejes que el cerebro se ponga en off,
+que nuestro dialecto no sea de un software.
+
+[Coro Final]
+¡Vos sos mi lo, te lo di todo entero!
+¡Un objeto directo, puro y verdadero!
+¡No te des desvíos con un le de cortesía!
+¡Que en mi norma Sevillana no hay hipocresía!
+¡Dámelo, decímelo, sin el bendito se!
+¡Que esa fricción cognitiva me da mucha fe!
+¡Te quiero acá, sin apps ni algoritmos!
+¡Volviendo al rigor de nuestros primeros ritmos!
+(Volviendo al rigor de nuestros primeros ritmos)
+
+[Outro]
+Lo, la, le, se...
+sin atrofia...
+solo vos y yo...
+dámelo.`
   }
 ];
