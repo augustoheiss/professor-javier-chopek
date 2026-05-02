@@ -109,69 +109,44 @@ América Latina... ¡siempre presente!`
     description: 'Acompáñanos en un viaje fascinante de más de 2000 años de evolución lingüística. Entiende por qué América Latina funciona como una cápsula del tiempo, la división atlántica y el peligro de la descarga cognitiva.',
   },
   {
-    id: 'j5MYXC3ab2w',
-    slug: 'mapa-de-la-mente-cancion-cliticos',
+    id: 'Sfw9zeMh7JY',
+    slug: 'la-cadena-de-accion',
     number: 8,
-    title: 'El Mapa de la Mente (La Canción de los Clíticos)',
+    title: 'La Cadena de Acción',
     description: 'Una canción didáctica sobre la evolución de los pronombres átonos, el paso del latín al español y la regla de los objetos directos e indirectos en América Latina.',
-    lyrics: `[Verso 1]
-Desde el latín vulgar, la mente en tensión
-Sin memoria externa, pura cognición
-Los ancestros hablaban con mucho rigor
-El cerebro humano era el único motor
-El viejo pronombre ille empezó a viajar
-Perdió su primera sílaba para poder encajar
-Se formó nuestro código, preciso y fatal
-Un mapa cognitivo en el árbol mental.
+    lyrics: `(Verso 1)
+Nuestra lengua viene del latín, donde la palabra "ille" dejó su huella.
+En América Latina, el uso etimológico es nuestra estrella.
+El objeto directo absorbe toda la energía de la acción.
+El indirecto es el que recibe el beneficio o la consecuencia en la oración.  
 
-[Coro]
-Lo, la, los, las reciben la acción
-El impacto directo, la pura colisión (¡el paciente!)
-Le y les observan, son el receptor
-El daño o el premio, el espectador
-Y en América Latina guardamos la ley
-El lo es directo, aquí no hay otro rey.
-Y si el le choca con lo sin dudar...
-¡Se transforma en se lo, historia pura al hablar!
+(Coro)
+Para el objeto directo usa siempre: lo, la, los y las.
+Para el objeto indirecto: le y les aplicarás.
+Y si juntas "le" y "lo", el pronombre "se" aparecerá.
+Como en "Se lo di a mi amigo", tu fluidez dominará. 
 
-[Verso 2]
-Imagina el cine, graba la escena de acción
-El sujeto es el director con la intención
-El objeto directo es el doble de riesgo al saltar
-Toma la fuerza de la acción sin mediar
-Pero cruza el Atlántico y mira el lugar
-La norma toledana la vamos a descartar
-Aquí no hay leísmo, ni tampoco vosotros
-Usamos ustedes, lo hacemos nosotros.
+(Verso 2)
+Vamos a la práctica, imagina la escena con precisión.
+Si compraste un libro, no repitas, di "Lo compré" con convicción.
+Si ya lo terminaste, simplemente di "Lo leí".
+Y si digo "Veo la casa", el "la" lo sustituye ahí.
+Pero si le das el libro a Juan, di "Le di el libro a Juan".
+Ese "le" duplica a la persona, para que no se pierda en el afán.
 
-[Puente]
-No es para que "suene bonito", no es por azar
-Illi illum fue gelo siglos atrás al hablar
-Y el roce del tiempo lo hizo cambiar
-Hasta el se lo moderno que vas a estudiar
-¡Deja el traductor, apaga el celular!
-La fricción en tu mente te enseña a pensar
-El se no es reflejo, es el dominio total
-La voz media que envuelve el golpe final.
+(Verso 3)
+La fuerza de la acción también cambia nuestra elección.
+Dices "María lo llora" si él murió y no tiene reacción.
+Pero dices "María le llora" si él la escucha quejarse con emoción.
+Si un ruido no tiene intención, "le molesta a su padre" es la voz.
+Pero si un niño lo hace a propósito, "lo molesta" es la opción más feroz.  
 
-[Coro]
-Lo, la, los, las reciben la acción
-El impacto directo, la pura colisión (¡el paciente!)
-Le y les observan, son el receptor
-El daño o el premio, el espectador
-Y en América Latina guardamos la ley
-El lo es directo, aquí no hay otro rey.
-Y si el le choca con lo sin dudar...
-¡Se transforma en se lo, historia pura al hablar!
-
-[Outro]
-Lo veo.
-Le escribo.
-Se lo entrego hoy.
-Mi mente es la guía de a dónde voy.
-Sin inteligencia artificial, pura memoria ancestral...
-¡Nuestra sintaxis es un mapa mental!
-(Fade out rítmico)`
+(Puente)
+No te olvides del pronombre "se", que muestra dominio total.
+Decir "Comí la manzana" es solo un hecho neutral.
+Pero "Me comí la manzana" es que te la acabaste hasta el final.
+Y si necesitas mi cuaderno, únelo todo y dime: "Dámelo".
+¡Con esta cadena de acción, tu español ya mejoró!.`
   },
   {
     id: 'ijm3lR5WdK4',
