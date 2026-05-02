@@ -220,5 +220,90 @@ Lo, la, le, se...
 sin atrofia...
 solo vos y yo...
 dámelo.`
+  },
+  {
+    id: 'yESVpnOkaHQ',
+    slug: 'la-geometria-mental-del-espanol',
+    number: 10,
+    title: `La geometría mental del español: Los secretos ocultos de "Este", "Ese" y "Aquel"`,
+    description: `¿Sabías que usar los pronombres demostrativos en español no es solo una simple reglita gramatical, sino una cuestión de pura geometría espacial e instinto de supervivencia neurológica?
+
+En este contenido, deconstruimos las reglas rígidas de los libros de texto tradicionales para mostrar cómo el cerebro humano mapea el espacio a su alrededor y cómo esto moldea la forma en que hablamos.
+
+Lo que vas a descubrir en este episodio:
+
+La regla de la T: Entiende por qué el sistema de tres distancias satura tu memoria de trabajo y cómo el truco visual de la letra "T" puede salvarte a la hora de conversar.
+
+La Matriz Latinoamericana: Descubre cómo el español coloquial de la calle simplificó el idioma, tragándose el uso de "aquel" en el día a día y transformando el "ese" en un comodín casi universal.
+
+Proximidad Psicológica: Entiende cómo tus emociones —ya sea un cariño inmenso o un desprecio total— pueden anular la distancia física y alterar las palabras que eliges.
+
+El comodín de los neutros: Aprende el momento exacto para usar "esto" y "eso" (como en el escenario de un aterrizaje extraterrestre) para lidiar con ideas abstractas u objetos desconocidos.
+
+El declive del GPS interno: Una reflexión provocativa sobre cómo tercerizar nuestra navegación a las pantallas de los celulares podría estar atrofiando nuestro hipocampo y nuestro "centro de memoria espacial" natural.
+
+¡Dale play para hackear la estructura del español latinoamericano, huir de las traducciones literales y aprender a ver el idioma desde una perspectiva totalmente nueva y fascinante!`,
+  },
+  {
+    id: '7DTOGGvWr30',
+    slug: 'la-geometria-mental-del-espanol-podcast',
+    number: 11,
+    title: `La geometría mental del español: Los secretos ocultos de "Este", "Ese" y "Aquel" (Podcast)`,
+    description: `(Podcast) ¿Sabías que usar los pronombres demostrativos en español no es solo una simple reglita gramatical, sino una cuestión de pura geometría espacial e instinto de supervivencia neurológica?
+
+En este contenido, deconstruimos las reglas rígidas de los libros de texto tradicionales para mostrar cómo el cerebro humano mapea el espacio a su alrededor y cómo esto moldea la forma en que hablamos.
+
+Lo que vas a descubrir en este episodio:
+
+La regla de la T: Entiende por qué el sistema de tres distancias satura tu memoria de trabajo y cómo el truco visual de la letra "T" puede salvarte a la hora de conversar.
+
+La Matriz Latinoamericana: Descubre cómo el español coloquial de la calle simplificó el idioma, tragándose el uso de "aquel" en el día a día y transformando el "ese" en un comodín casi universal.
+
+Proximidad Psicológica: Entiende cómo tus emociones —ya sea un cariño inmenso o un desprecio total— pueden anular la distancia física y alterar las palabras que eliges.
+
+El comodín de los neutros: Aprende el momento exacto para usar "esto" y "eso" (como en el escenario de un aterrizaje extraterrestre) para lidiar con ideas abstractas u objetos desconocidos.
+
+El declive del GPS interno: Una reflexión provocativa sobre cómo tercerizar nuestra navegación a las pantallas de los celulares podría estar atrofiando nuestro hipocampo y nuestro "centro de memoria espacial" natural.
+
+¡Dale play para hackear la estructura del español latinoamericano, huir de las traducciones literales y aprender a ver el idioma desde una perspectiva totalmente nueva y fascinante!`,
+  },
+  {
+    id: 'uJLCHfaKg0A',
+    slug: 'la-regla-de-la-t',
+    number: 12,
+    title: 'La regla de la T',
+    description: 'En este contenido, exploramos los demostrativos en español, centrándonos en cómo el cerebro humano mapea el espacio a su alrededor y cómo esto moldea la forma en que hablamos. Aprende el momento exacto para usar "este", "ese" y "aquel", y descubre cómo tus emociones pueden alterar las palabras que eliges.',
+    lyrics: `(Verso 1)
+Nuestros ancestros tenían el mismo volumen craneal y capacidad innata que tú y yo.
+Navegaban por entornos exigiendo un nivel de esfuerzo cognitivo continuo y mayor.
+Su mente operaba como un motor trigonométrico muy sofisticado para el cálculo espacial.
+Hoy sufrimos la "muerte del cerebro", una atrofia por nuestra pereza intelectual.
+Depender de la navegación algorítmica y los GPS modernos es un peligro monumental. 
+
+(Coro)
+Aprender los demostrativos requiere usar la cognición y la memoria sin cesar.
+Para las cosas cerca usa la regla de la "T", si el objeto puedes tocar.
+"Este bolígrafo" o "esta tarta" son ejemplos de proximidad sin dudar.
+Pero si algo está más lejos, "Pásame esa vaina de ahí" en Colombia vas a escuchar.  
+
+(Verso 2)
+La inmersión en América Latina nos da mucha más lección:
+En Argentina usan el voseo diciendo: "Tenémelo, por favor. Este." con precisión.
+En México, para un plato local, preguntas: "¿Cuánto cuesta este zope?" con atención.
+En Chile, ante el tráfico, exclamas: "No vamos a llegar con este taco" en la región.
+Y en Puerto Rico dices: "Bota eso en aquel zafacón", aplicando la lejanía y la abstracción.  
+
+(Puente)
+El pronombre neutro sirve para lo abstracto o cuando la identidad vas a ignorar.
+Preguntas "¿Qué es eso que tienes en la mano?", si el género no puedes adivinar.
+Dices "Esto es muy difícil de entender", para un concepto complejo evaluar.
+O "Trabajé catorce horas ayer. Por eso estoy cansado", al discurso conectar.
+Y si ya estás manejando un asunto, "En eso estamos" vas a exclamar.  
+
+(Outro)
+Recuerda que el cerebro asocia los objetos manipulables al espacio personal.
+Mientras que el rechazo o asco empuja el objeto hacia "ese" en tu mapa mental.
+No te rindas ante la tecnología y su dependencia fatal.
+Usa "este", "ese" y "aquel" para ejercitar tu intelecto ancestral.`
   }
 ];
